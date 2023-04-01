@@ -24,4 +24,4 @@ spec:
            name: silly-demo
            port:
              number: 8080
-    host: silly-demo.34.75.53.170.nip.io
+    host: myapp.canary.test
