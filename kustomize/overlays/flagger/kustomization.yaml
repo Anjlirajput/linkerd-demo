@@ -9,8 +9,4 @@ namespace: production
 images:
 - name: vfarcic/silly-demo
   newName: vfarcic/silly-demo
-  newTag: 1.0.4
-
-## initial tag : 1.0.5
-## succesful tag:  1.0.4
-## fail tag : 1.0.3
+  newTag: 1.0.3
